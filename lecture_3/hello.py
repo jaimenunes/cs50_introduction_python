@@ -1,0 +1,2 @@
+#---- EXCEPTIONS -----
+print("Hello world")
